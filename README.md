@@ -1,2 +1,0 @@
-# cupones
-Practica usando Bootstrap
