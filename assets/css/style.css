@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&display=swap');
+
+body { 
+	background-color: #f5f5f5;
+}
+
+
+footer{
+    background-color: red;
+	color: white;
+	margin: 20px;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
