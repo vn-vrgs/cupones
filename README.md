@@ -1,5 +1,1 @@
-Primera instancia
-Se crea repositorio 
-Se crea archivo index.html
-Se crea archivo readme.md
-
+Este proyecto corresponde a las clases de la semana 4 usando Bootstrao para manejo de grilla.
